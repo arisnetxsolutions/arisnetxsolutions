@@ -1,4 +1,3 @@
-markdown
 <h1 align="center">Hi 👋, I'm Victor M. Arismendi</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
