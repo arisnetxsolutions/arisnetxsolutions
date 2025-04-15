@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22634
-Fork on GitHub
-7468
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
 markdown
 <h1 align="center">Hi 👋, I'm Victor M. Arismendi</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
